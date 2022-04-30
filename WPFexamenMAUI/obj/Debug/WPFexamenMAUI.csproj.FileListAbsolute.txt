@@ -1,0 +1,17 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\bin\Debug\WPFexamenMAUI.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\bin\Debug\WPFexamenMAUI.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\bin\Debug\WPFexamenMAUI.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFexamenMAUI\WPFexamenMAUI\obj\Debug\WPFexamenMAUI_Content.g.cs
